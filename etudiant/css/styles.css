@@ -141,6 +141,12 @@ div.lien_float a:hover {
   cursor: pointer;
 }
 /* Section photographie */
-section.photo {
+section.photos {
+  background-image: url(../images/fond/fond.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section.photos img{
+  width: 30%;
 }
 /* Bouton retour */
